@@ -1,5 +1,4 @@
 # AIS GitHub Actions PRUEBA
-aa JaviJavi 
 Este proyecto consta de un servidor REST sencillo para la gestión de items.
 
 ## Construir la aplicación (en local)
